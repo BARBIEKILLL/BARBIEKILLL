@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil da Barbara Silva 😁
 
+Iniciante no mundo da tecnologia 
+
  <div>
    <a href="https://github.com/barbiekilll">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbiekilll&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
